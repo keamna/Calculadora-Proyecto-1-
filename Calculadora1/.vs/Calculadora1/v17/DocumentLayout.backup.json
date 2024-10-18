@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\positivonegativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\positivonegativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\elevanumalnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\elevanumalnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|c:\\users\\keany\\source\\repos\\calculadora1\\calculadora1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\logaritmonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\logaritmonum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\elevadiezalnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\elevadiezalnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\factorialnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\factorialnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\elevanumcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\elevanumcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\raizcuadrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\raizcuadrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Keany\\source\\repos\\Calculadora1\\calculadora1\\clases\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEDC698-25A3-46EA-8C05-7981C9C4BA3E}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\clases\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogaritmoNum.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\LogaritmoNum.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\LogaritmoNum.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\LogaritmoNum.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\LogaritmoNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:22:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevaNumAlNum.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaNumAlNum.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\ElevaNumAlNum.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaNumAlNum.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\ElevaNumAlNum.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:24:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PositivoNegativo.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\PositivoNegativo.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\PositivoNegativo.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\PositivoNegativo.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\PositivoNegativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:17:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FactorialNum.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\FactorialNum.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\FactorialNum.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\FactorialNum.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\FactorialNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:23:32.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:36:44.362Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Form1.cs",
+              "RelativeToolTip": "Calculadora1\\Form1.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAEwEwBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:40:14.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevaDiezAlNum.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaDiezAlNum.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\ElevaDiezAlNum.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaDiezAlNum.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\ElevaDiezAlNum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:54:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElevaNumCuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaNumCuadrado.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\ElevaNumCuadrado.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\ElevaNumCuadrado.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\ElevaNumCuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:18:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Multiplicacion.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\Multiplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:27:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Division.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\Division.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Division.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:26:11.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Resta.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\Resta.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Resta.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\Resta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:20:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaizCuadrada.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\RaizCuadrada.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\RaizCuadrada.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\RaizCuadrada.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\RaizCuadrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:22:52.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Suma.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Clases\\Suma.cs",
+              "ToolTip": "C:\\Users\\Keany\\source\\repos\\Calculadora1\\Calculadora1\\Clases\\Suma.cs",
+              "RelativeToolTip": "Calculadora1\\Clases\\Suma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:46:18.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
